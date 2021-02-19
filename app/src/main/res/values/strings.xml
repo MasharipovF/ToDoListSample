@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoListSample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="progress">inprogress</string>
+    <string name="done">done</string>
+    <string name="addButtonTxt">ADD</string>
+    <string name="titleHint">Here will be the description of task</string>
+    <string name="dateHint">Click to choose date</string>
+    <string name="deleteTask">Click to choose date</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/allTasksFragment"
+        android:icon="@drawable/ic_baseline_list_all"
+        android:title="All" />
+    <item
+        android:id="@+id/finishedTasksFragment"
+        android:icon="@drawable/ic_baseline_done"
+        android:title="Finished" />
+    <item
+        android:id="@+id/inProgressTasksFragment"
+        android:icon="@drawable/ic_baseline_inprogress"
+        android:title="In Progress" />
+</menu>
